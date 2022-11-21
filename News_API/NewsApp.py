@@ -1,4 +1,4 @@
-import requests
+from flask import request
 import tkinter as tk
 
 def getNews():
